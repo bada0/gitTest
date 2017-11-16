@@ -2,7 +2,7 @@
 
 int main()
 {
-	std::cout << "Hello world! This is GitTest" << std::endl;
+	std::cout << "Hello world! I'm Testing Git" << std::endl;
 
 	return 0;
 }
