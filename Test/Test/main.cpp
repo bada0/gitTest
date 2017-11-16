@@ -1,8 +1,17 @@
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-	std::cout << "Hello world! I'm Testing Git" << std::endl;
-
+	
+	for (int i = 0; i < 5; i++)
+	{
+		for (int j = 0; j < 5; j++)
+		{
+			cout << "$";
+		}
+		cout << endl;
+	}
 	return 0;
 }
